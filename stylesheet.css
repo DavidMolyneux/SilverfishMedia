@@ -1,0 +1,41 @@
+body {
+	background-color: #161F2E;
+	color: white;
+	background: url("file:///Users/DavidMolyneux/Documents/University%20Work/Level%201/Production%20Systems%20for%20the%20Web/Site%20Images/background.jpg");
+	background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+	font-family: Helvetica, Arial;
+
+}
+
+h2 {
+	font-family: Helvetica, Arial;
+}
+
+h3 {
+	font-family: Helvetica, Arial;
+}
+
+p {
+	font-family: Helvetica, Arial;
+}
+
+.title {
+	font-size: 60px;
+	text-align: center;
+}
+
+.subtitle {
+	text-align: center;
+}
